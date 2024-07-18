@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-firsttutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --ext js,html server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http": "^0.0.1-security",
+    "nodemon": "^3.1.4"
+  }
+}
